@@ -1,7 +1,7 @@
  <div align=center>
 	
 	![JK-Kim's github stats](https://github-readme-stats.vercel.app/api?username=JK-Kim4&show_icons=true)	
-	[![JK-Kim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-Kim4&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
+	[![JK-Kim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-Kim4&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JK-Kim4)
 
 </div>
 
