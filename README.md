@@ -1,7 +1,6 @@
  <div align=center>
 	
 ![Jongwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JK-Kim4&show_icons=true&theme=gotham)
-![Jongwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIM-jongwan&show_icons=true&theme=gotham)
 [![Jongwan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JK-Kim4&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JK-Kim4)
 	 
   </div>
